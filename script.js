@@ -17,7 +17,7 @@ const noMessages = [
     "Magiging sobrang sad ako 😢",
     "Please? 💔",
     "Dali na huhuhu",
-    "Last chance na!! 😭",
+    "Last chance na! 😭",
     "Kaso di mo naman ako mahuhuli 😜"
 ]
 
